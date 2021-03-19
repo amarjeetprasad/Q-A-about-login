@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Q-A-about-login/static/css/main.4f43785b.chunk.css",
+    "main.js": "/Q-A-about-login/static/js/main.eb8475b2.chunk.js",
+    "main.js.map": "/Q-A-about-login/static/js/main.eb8475b2.chunk.js.map",
+    "runtime-main.js": "/Q-A-about-login/static/js/runtime-main.19b72a98.js",
+    "runtime-main.js.map": "/Q-A-about-login/static/js/runtime-main.19b72a98.js.map",
+    "static/js/2.40b1d22a.chunk.js": "/Q-A-about-login/static/js/2.40b1d22a.chunk.js",
+    "static/js/2.40b1d22a.chunk.js.map": "/Q-A-about-login/static/js/2.40b1d22a.chunk.js.map",
+    "index.html": "/Q-A-about-login/index.html",
+    "precache-manifest.ca0ea30d3d8275d5aa93b775903f62b8.js": "/Q-A-about-login/precache-manifest.ca0ea30d3d8275d5aa93b775903f62b8.js",
+    "service-worker.js": "/Q-A-about-login/service-worker.js",
+    "static/css/main.4f43785b.chunk.css.map": "/Q-A-about-login/static/css/main.4f43785b.chunk.css.map",
+    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/Q-A-about-login/static/js/2.40b1d22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b72a98.js",
+    "static/js/2.40b1d22a.chunk.js",
+    "static/css/main.4f43785b.chunk.css",
+    "static/js/main.eb8475b2.chunk.js"
+  ]
+}
